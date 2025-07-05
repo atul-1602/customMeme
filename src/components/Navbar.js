@@ -23,7 +23,7 @@ const Navbar = () => {
                 <h1 className="text-2xl font-bold bg-gradient-to-r from-purple-600 to-blue-600 bg-clip-text text-transparent group-hover:from-purple-700 group-hover:to-blue-700 transition-all duration-200">
                   MemeCraft
                 </h1>
-                <p className="text-xs text-gray-500 -mt-1">Create. Share. Laugh.</p>
+                <p className="text-xs text-gray-500 -mt-1">Custom Meme Generator</p>
               </div>
             </div>
           </div>

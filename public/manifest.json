@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MemeCraft",
+  "name": "MemeCraft - Custom Meme Generator",
+  "description": "Create custom memes with drag-and-drop text editing",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,8 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "theme_color": "#8B5CF6",
+  "background_color": "#F3F4F6",
+  "categories": ["entertainment", "productivity", "utilities"],
+  "lang": "en"
 }
