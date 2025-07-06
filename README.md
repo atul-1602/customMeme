@@ -2,6 +2,13 @@
 
 A modern, responsive web application for creating custom memes with drag-and-drop text editing, real-time customization, and seamless export functionality.
 
+<img width="1512" alt="Screenshot 2025-07-06 at 11 48 17 AM" src="https://github.com/user-attachments/assets/7ad06f33-60ae-4f5a-8059-90299155a7bd" />
+
+
+<img width="1512" alt="Screenshot 2025-07-06 at 11 48 39 AM" src="https://github.com/user-attachments/assets/4523c8cd-1914-45fe-9e41-43386de31068" />
+
+
+
 ## ✨ Features
 
 - **🎨 Drag & Drop Text Editing**: Add, move, and customize text elements on any meme template
